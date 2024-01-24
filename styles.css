@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: tomato;
+}
+.container1,
+.container2,
+.container3 {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+}
+
